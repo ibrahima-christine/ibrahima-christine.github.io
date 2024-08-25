@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//Your Product//EN
+BEGIN:VEVENT
+UID:1234567890@example.com
+DTSTAMP:20240821T120000Z
+DTSTART:20241019T160000Z
+DTEND:20241019T200000Z
+SUMMARY:Ibrahima & Christine: We Are Getting Married
+DESCRIPTION:Join us to celebrate our wedding on the 19th of October, 2024.
+LOCATION:Your Wedding Location
+END:VEVENT
+END:VCALENDAR
